@@ -11298,5 +11298,29 @@
       }
     ],
     "class_name": "Pretender"
+  },
+  {
+    "idx": 461,
+    "name": "Lord Logres",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_1065000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_1065001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_1065002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_1065003.png"
+      }
+    ],
+    "class_name": "Saber"
   }
 ]

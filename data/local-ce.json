@@ -21517,7 +21517,7 @@
   },
   {
     "idx": 1957,
-    "name": "Burning Prairie of Scarlet Fur",
+    "name": "Fiery Manes",
     "rarity": 4,
     "assets": [
       {
@@ -27859,6 +27859,72 @@
       {
         "key": "9311670",
         "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93116700.png"
+      }
+    ]
+  },
+  {
+    "idx": 2534,
+    "name": "黎明",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "9409000",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94090000.png"
+      }
+    ]
+  },
+  {
+    "idx": 2535,
+    "name": "願い事",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9409010",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94090100.png"
+      }
+    ]
+  },
+  {
+    "idx": 2536,
+    "name": "優駿",
+    "rarity": 3,
+    "assets": [
+      {
+        "key": "9409020",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94090200.png"
+      }
+    ]
+  },
+  {
+    "idx": 2537,
+    "name": "アトラスの守り",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9311690",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93116900.png"
+      }
+    ]
+  },
+  {
+    "idx": 2538,
+    "name": "概念礼装EXPカート わたしの小さなウマ",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809590",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98095900.png"
+      }
+    ]
+  },
+  {
+    "idx": 2539,
+    "name": "刻の終わり",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9311680",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93116800.png"
       }
     ]
   }
