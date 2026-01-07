@@ -10919,6 +10919,10 @@
       {
         "key": "ascension_4",
         "url": "https://static.atlasacademy.io/JP/Faces/f_40001003.png"
+      },
+      {
+        "key": "costume_4000130",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_40001300.png"
       }
     ],
     "class_name": "Unbeastolgamarie"
