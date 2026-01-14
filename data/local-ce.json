@@ -27949,5 +27949,16 @@
         "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93117100.png"
       }
     ]
+  },
+  {
+    "idx": 2542,
+    "name": "サテライトステーション26",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9311760",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93117600.png"
+      }
+    ]
   }
 ]
