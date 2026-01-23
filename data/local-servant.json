@@ -11326,5 +11326,69 @@
       }
     ],
     "class_name": "Saber"
+  },
+  {
+    "idx": 462,
+    "name": "The Old Man Who Made the Dead Trees Blossom",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_5059000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_5059001.png"
+      }
+    ],
+    "class_name": "Caster"
+  },
+  {
+    "idx": 463,
+    "name": "蛇女房",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_6052000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_6052001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_6052002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_6052003.png"
+      }
+    ],
+    "class_name": "Assassin"
+  },
+  {
+    "idx": 464,
+    "name": "フローラ",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_10020000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_10020001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_10020002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_10020003.png"
+      }
+    ],
+    "class_name": "Alter Ego"
   }
 ]
