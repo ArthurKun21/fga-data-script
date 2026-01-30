@@ -11339,6 +11339,14 @@
       {
         "key": "ascension_2",
         "url": "https://static.atlasacademy.io/JP/Faces/f_5059001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_5059002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_5059003.png"
       }
     ],
     "class_name": "Caster"
