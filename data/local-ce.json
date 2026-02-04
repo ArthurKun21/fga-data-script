@@ -28037,5 +28037,16 @@
         "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93117400.png"
       }
     ]
+  },
+  {
+    "idx": 2550,
+    "name": "名も無き兵士",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9311720",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93117200.png"
+      }
+    ]
   }
 ]
