@@ -28048,5 +28048,346 @@
         "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93117200.png"
       }
     ]
+  },
+  {
+    "idx": 2551,
+    "name": "タフル・スイート",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "9409170",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94091700.png"
+      }
+    ]
+  },
+  {
+    "idx": 2552,
+    "name": "スノー・ハート",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9409180",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94091800.png"
+      }
+    ]
+  },
+  {
+    "idx": 2553,
+    "name": "ハレンタイン・ランチ",
+    "rarity": 3,
+    "assets": [
+      {
+        "key": "9409190",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94091900.png"
+      }
+    ]
+  },
+  {
+    "idx": 2554,
+    "name": "サイン・オフ・スフリンク",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "9409200",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94092000.png"
+      }
+    ]
+  },
+  {
+    "idx": 2555,
+    "name": "アンフロシア結晶",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9311780",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93117800.png"
+      }
+    ]
+  },
+  {
+    "idx": 2556,
+    "name": "フフ......栄光と勝利の月桂冠",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809600",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98096000.png"
+      }
+    ]
+  },
+  {
+    "idx": 2557,
+    "name": "トリニティ・メタトロンチョコ",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809610",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98096100.png"
+      }
+    ]
+  },
+  {
+    "idx": 2558,
+    "name": "磨崖碑文",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809620",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98096200.png"
+      }
+    ]
+  },
+  {
+    "idx": 2559,
+    "name": "イノセント・ターク",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809630",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98096300.png"
+      }
+    ]
+  },
+  {
+    "idx": 2560,
+    "name": "アナサースヘース・アナサーティメンション",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809640",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98096400.png"
+      }
+    ]
+  },
+  {
+    "idx": 2561,
+    "name": "スカイトーム",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809650",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98096500.png"
+      }
+    ]
+  },
+  {
+    "idx": 2562,
+    "name": "所長のお気に入り",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809660",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98096600.png"
+      }
+    ]
+  },
+  {
+    "idx": 2563,
+    "name": "アッフルリッフ・アイラント",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809670",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98096700.png"
+      }
+    ]
+  },
+  {
+    "idx": 2564,
+    "name": "シャークチェス・チョコ",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809680",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98096800.png"
+      }
+    ]
+  },
+  {
+    "idx": 2565,
+    "name": "呼延灼アイラントチョコ",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809690",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98096900.png"
+      }
+    ]
+  },
+  {
+    "idx": 2566,
+    "name": "五宝月団子",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809700",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98097000.png"
+      }
+    ]
+  },
+  {
+    "idx": 2567,
+    "name": "妖精イリヤチョコ(4 7スケール)",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809710",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98097100.png"
+      }
+    ]
+  },
+  {
+    "idx": 2568,
+    "name": "本日の紅茶",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809720",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98097200.png"
+      }
+    ]
+  },
+  {
+    "idx": 2569,
+    "name": "鶴とココアと雛ぬいと",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809730",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98097300.png"
+      }
+    ]
+  },
+  {
+    "idx": 2570,
+    "name": "なための香り",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809740",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98097400.png"
+      }
+    ]
+  },
+  {
+    "idx": 2571,
+    "name": "にゃんにゃんチョコ(仮)",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809750",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98097500.png"
+      }
+    ]
+  },
+  {
+    "idx": 2572,
+    "name": "青い帯留め",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809760",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98097600.png"
+      }
+    ]
+  },
+  {
+    "idx": 2573,
+    "name": "大陸の絹織物",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809770",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98097700.png"
+      }
+    ]
+  },
+  {
+    "idx": 2574,
+    "name": "毛皮の肩掛け",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809780",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98097800.png"
+      }
+    ]
+  },
+  {
+    "idx": 2575,
+    "name": "ファイナルハロウィン・スヘシャルチョコ",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809790",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98097900.png"
+      }
+    ]
+  },
+  {
+    "idx": 2576,
+    "name": "キンクエリサチョコ",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809800",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98098000.png"
+      }
+    ]
+  },
+  {
+    "idx": 2577,
+    "name": "クラントセイハーチョコ",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809810",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98098100.png"
+      }
+    ]
+  },
+  {
+    "idx": 2578,
+    "name": "花咲かしいさんの縁側",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809820",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98098200.png"
+      }
+    ]
+  },
+  {
+    "idx": 2579,
+    "name": "こく普通のカレー",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809830",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98098300.png"
+      }
+    ]
+  },
+  {
+    "idx": 2580,
+    "name": "チョコレートの花園",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809840",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98098400.png"
+      }
+    ]
+  },
+  {
+    "idx": 2581,
+    "name": "チョコチッフメロンハン",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9809850",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98098500.png"
+      }
+    ]
   }
 ]
