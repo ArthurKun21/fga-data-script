@@ -28400,5 +28400,16 @@
         "url": "https://static.atlasacademy.io/JP/EquipFaces/f_98098600.png"
       }
     ]
+  },
+  {
+    "idx": 2583,
+    "name": "記憶の大図書館",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "9409210",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94092100.png"
+      }
+    ]
   }
 ]
