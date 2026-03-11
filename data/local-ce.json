@@ -28411,5 +28411,126 @@
         "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94092100.png"
       }
     ]
+  },
+  {
+    "idx": 2584,
+    "name": "トラシェクトリー・オフ・フェイト",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "9409070",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94090700.png"
+      }
+    ]
+  },
+  {
+    "idx": 2585,
+    "name": "ファイフ・ラウンス",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "9409080",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94090800.png"
+      }
+    ]
+  },
+  {
+    "idx": 2586,
+    "name": "フレセント・フォー・ユー",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "9409090",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94090900.png"
+      }
+    ]
+  },
+  {
+    "idx": 2587,
+    "name": "Studio Legale G",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9409100",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94091000.png"
+      }
+    ]
+  },
+  {
+    "idx": 2588,
+    "name": "Breaching",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9409110",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94091100.png"
+      }
+    ]
+  },
+  {
+    "idx": 2589,
+    "name": "フェアリー・ファーム",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9409120",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94091200.png"
+      }
+    ]
+  },
+  {
+    "idx": 2590,
+    "name": "クラント・キャサリンク",
+    "rarity": 3,
+    "assets": [
+      {
+        "key": "9409130",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94091300.png"
+      }
+    ]
+  },
+  {
+    "idx": 2591,
+    "name": "ライト・オフ・ナイト",
+    "rarity": 3,
+    "assets": [
+      {
+        "key": "9409140",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94091400.png"
+      }
+    ]
+  },
+  {
+    "idx": 2592,
+    "name": "トラハス~10th記念ライフ~",
+    "rarity": 3,
+    "assets": [
+      {
+        "key": "9409150",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94091500.png"
+      }
+    ]
+  },
+  {
+    "idx": 2593,
+    "name": "翠嶺の息吹",
+    "rarity": 3,
+    "assets": [
+      {
+        "key": "9409160",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94091600.png"
+      }
+    ]
+  },
+  {
+    "idx": 2594,
+    "name": "我に来たれ、貴き君よ",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9311770",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93117700.png"
+      }
+    ]
   }
 ]
