@@ -1,26 +1,18 @@
-from typing import TypeVar
+import asyncio
 
 import click
-from anyio import create_task_group, run
+from anyio import run
 from loguru import logger
 
 import directory
 from data import process_craft_essence_data, process_servant_data
 from log import setup_logger
-from models import (
-    BaseData,
-    CraftEssenceData,
-    ServantData,
-)
 from preprocess import (
     fetch_local_ce_data,
     fetch_local_servant_data,
     process_craft_essence,
     process_servant,
 )
-
-T = TypeVar("T", bound=BaseData)
-IndexedT = dict[int, T]
 
 
 async def main(debug: bool, dry_run: bool, delete: bool):
@@ -30,28 +22,6 @@ async def main(debug: bool, dry_run: bool, delete: bool):
     logger.info("Starting the application...")
     if debug:
         logger.debug("Debug mode is enabled.")
-
-    ce_latest_data: list[CraftEssenceData] = []
-    ce_local_data: IndexedT = {}
-
-    servant_latest_data: list[ServantData] = []
-    servant_local_data: IndexedT = {}
-
-    async def preprocess_ce():
-        nonlocal ce_latest_data
-        ce_latest_data = await process_craft_essence()
-
-    async def fetch_local_ce():
-        nonlocal ce_local_data
-        ce_local_data = await fetch_local_ce_data()
-
-    async def preprocess_servant():
-        nonlocal servant_latest_data
-        servant_latest_data = await process_servant()
-
-    async def fetch_local_servant():
-        nonlocal servant_local_data
-        servant_local_data = await fetch_local_servant_data()
 
     try:
         await directory.check_if_repo_exists()
@@ -64,30 +34,36 @@ async def main(debug: bool, dry_run: bool, delete: bool):
         await directory.delete_repository_support()
 
     try:
-        async with create_task_group() as tg:
-            tg.start_soon(preprocess_ce)
-            tg.start_soon(fetch_local_ce)
-            tg.start_soon(preprocess_servant)
-            tg.start_soon(fetch_local_servant)
+        (
+            ce_latest_data,
+            ce_local_data,
+            servant_latest_data,
+            servant_local_data,
+        ) = await asyncio.gather(
+            process_craft_essence(),
+            fetch_local_ce_data(),
+            process_servant(),
+            fetch_local_servant_data(),
+        )
     except Exception as e:
         logger.error(f"An error occurred: {e}")
+        exit()
 
     try:
-        async with create_task_group() as tg:
-            tg.start_soon(
-                process_servant_data,
+        await asyncio.gather(
+            process_servant_data(
                 servant_latest_data,
                 servant_local_data,
                 debug,
                 dry_run,
-            )
-            tg.start_soon(
-                process_craft_essence_data,
+            ),
+            process_craft_essence_data(
                 ce_latest_data,
                 ce_local_data,
                 debug,
                 dry_run,
-            )
+            ),
+        )
     except Exception as e:
         logger.error(f"An error occurred: {e}")
         exit()
