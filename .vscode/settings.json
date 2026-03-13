@@ -9,5 +9,10 @@
         "src"
     ],
     "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
+    "python.testing.pytestEnabled": true,
+    "github.copilot.chat.commitMessageGeneration.instructions": [
+        {
+            "file": ".github/git-commit-instructions.md"
+        }
+    ]
 }
