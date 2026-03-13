@@ -16,8 +16,8 @@ LOG_FILE = LOGS_DIR / "app.log"
 TMP_DIR = ROOT / "tmp"
 TMP_DIR.mkdir(exist_ok=True, parents=True)
 
-SERVANT = SupportKind.SERVANT.value
-CE = SupportKind.CRAFT_ESSENCE.value
+SERVANT = SupportKind.SERVANT
+CE = SupportKind.CRAFT_ESSENCE
 
 # Process directories
 
