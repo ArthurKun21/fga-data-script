@@ -28543,5 +28543,38 @@
         "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93117900.png"
       }
     ]
+  },
+  {
+    "idx": 2596,
+    "name": "月海原生徒会の会計",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "9409220",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94092200.png"
+      }
+    ]
+  },
+  {
+    "idx": 2597,
+    "name": "裏庭の厨房",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9409230",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94092300.png"
+      }
+    ]
+  },
+  {
+    "idx": 2598,
+    "name": "選はれし者",
+    "rarity": 3,
+    "assets": [
+      {
+        "key": "9409240",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94092400.png"
+      }
+    ]
   }
 ]
