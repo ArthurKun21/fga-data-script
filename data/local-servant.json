@@ -11329,7 +11329,7 @@
   },
   {
     "idx": 462,
-    "name": "The Old Man Who Made the Dead Trees Blossom",
+    "name": "Hanasaka no Okina",
     "rarity": 5,
     "assets": [
       {
@@ -11353,7 +11353,7 @@
   },
   {
     "idx": 463,
-    "name": "蛇女房",
+    "name": "Hebi Nyobo",
     "rarity": 4,
     "assets": [
       {
@@ -11377,7 +11377,7 @@
   },
   {
     "idx": 464,
-    "name": "フローラ",
+    "name": "Flora",
     "rarity": 4,
     "assets": [
       {
@@ -11446,5 +11446,53 @@
       }
     ],
     "class_name": "Saber"
+  },
+  {
+    "idx": 467,
+    "name": "Francois Prelat",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_5056000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_5056001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_5056002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_5056003.png"
+      }
+    ],
+    "class_name": "Caster"
+  },
+  {
+    "idx": 468,
+    "name": "Hippolyte",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_4056000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_4056001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_4056002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_4056003.png"
+      }
+    ],
+    "class_name": "Rider"
   }
 ]
