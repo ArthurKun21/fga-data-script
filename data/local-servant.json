@@ -11467,6 +11467,22 @@
       {
         "key": "ascension_4",
         "url": "https://static.atlasacademy.io/JP/Faces/f_5056003.png"
+      },
+      {
+        "key": "transformGroup_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_5056000_group.png"
+      },
+      {
+        "key": "transformGroup_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_5056001_group.png"
+      },
+      {
+        "key": "transformGroup_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_5056002_group.png"
+      },
+      {
+        "key": "transformGroup_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_5056003_group.png"
       }
     ],
     "class_name": "Caster"
@@ -11494,5 +11510,29 @@
       }
     ],
     "class_name": "Rider"
+  },
+  {
+    "idx": 469,
+    "name": "John Lackland",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_11020000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_11020001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_11020002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_11020003.png"
+      }
+    ],
+    "class_name": "Avenger"
   }
 ]
