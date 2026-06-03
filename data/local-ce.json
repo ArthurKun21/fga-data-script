@@ -22551,7 +22551,7 @@
   },
   {
     "idx": 2051,
-    "name": "Dark Marsh of Black Grease",
+    "name": "Slimy Black Bog",
     "rarity": 4,
     "assets": [
       {
@@ -22562,7 +22562,7 @@
   },
   {
     "idx": 2052,
-    "name": "Report Check",
+    "name": "Checking Reports",
     "rarity": 5,
     "assets": [
       {
@@ -28662,6 +28662,61 @@
       {
         "key": "9311810",
         "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93118100.png"
+      }
+    ]
+  },
+  {
+    "idx": 2607,
+    "name": "流転の剣聖",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "9409320",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94093200.png"
+      }
+    ]
+  },
+  {
+    "idx": 2608,
+    "name": "未た見ぬ勝利",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "9409290",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94092900.png"
+      }
+    ]
+  },
+  {
+    "idx": 2609,
+    "name": "苦い記憶",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9409300",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94093000.png"
+      }
+    ]
+  },
+  {
+    "idx": 2610,
+    "name": "惨禍の萌芽",
+    "rarity": 3,
+    "assets": [
+      {
+        "key": "9409310",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94093100.png"
+      }
+    ]
+  },
+  {
+    "idx": 2611,
+    "name": "貴方への祈り",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9311830",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93118300.png"
       }
     ]
   }
