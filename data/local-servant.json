@@ -11419,6 +11419,10 @@
       {
         "key": "ascension_4",
         "url": "https://static.atlasacademy.io/JP/Faces/f_3064003.png"
+      },
+      {
+        "key": "costume_306430",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_3064300.png"
       }
     ],
     "class_name": "Lancer"
@@ -11558,5 +11562,21 @@
       }
     ],
     "class_name": "Archer"
+  },
+  {
+    "idx": 471,
+    "name": "アスカラホス",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_10022000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_10022001.png"
+      }
+    ],
+    "class_name": "Alter Ego"
   }
 ]

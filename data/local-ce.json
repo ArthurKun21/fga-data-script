@@ -28719,5 +28719,60 @@
         "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93118300.png"
       }
     ]
+  },
+  {
+    "idx": 2612,
+    "name": "ハイフレント・カラー",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "9409330",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94093300.png"
+      }
+    ]
+  },
+  {
+    "idx": 2613,
+    "name": "彫姫の行進",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9409340",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94093400.png"
+      }
+    ]
+  },
+  {
+    "idx": 2614,
+    "name": "フォレスト・エテュケーター",
+    "rarity": 3,
+    "assets": [
+      {
+        "key": "9409350",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94093500.png"
+      }
+    ]
+  },
+  {
+    "idx": 2615,
+    "name": "トリーム・フール",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "9409360",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94093600.png"
+      }
+    ]
+  },
+  {
+    "idx": 2616,
+    "name": "愛しき代償",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9311840",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93118400.png"
+      }
+    ]
   }
 ]
