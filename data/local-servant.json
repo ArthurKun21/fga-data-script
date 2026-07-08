@@ -11575,8 +11575,64 @@
       {
         "key": "ascension_2",
         "url": "https://static.atlasacademy.io/JP/Faces/f_10022001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_10022002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_10022003.png"
       }
     ],
     "class_name": "Alter Ego"
+  },
+  {
+    "idx": 472,
+    "name": "クレイ・リリィ",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_1067000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_1067001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_1067002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_1067003.png"
+      }
+    ],
+    "class_name": "Saber"
+  },
+  {
+    "idx": 473,
+    "name": "クレイ・リリィ (Lancer)",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_3063000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_3063001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_3063002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_3063003.png"
+      }
+    ],
+    "class_name": "Lancer"
   }
 ]
