@@ -10729,7 +10729,7 @@
   },
   {
     "idx": 435,
-    "name": "Ono no Komachi",
+    "name": "Ono-no-Komachi",
     "rarity": 5,
     "assets": [
       {
@@ -11453,7 +11453,7 @@
   },
   {
     "idx": 467,
-    "name": "Francois Prelat",
+    "name": "Francois Prelati",
     "rarity": 5,
     "assets": [
       {
@@ -11541,7 +11541,7 @@
   },
   {
     "idx": 470,
-    "name": "ウルス",
+    "name": "Urðr",
     "rarity": 5,
     "assets": [
       {
@@ -11565,7 +11565,7 @@
   },
   {
     "idx": 471,
-    "name": "アスカラホス",
+    "name": "Ascalaphus",
     "rarity": 5,
     "assets": [
       {
@@ -11589,7 +11589,7 @@
   },
   {
     "idx": 472,
-    "name": "クレイ・リリィ",
+    "name": "Gray Lily",
     "rarity": 4,
     "assets": [
       {
@@ -11613,7 +11613,7 @@
   },
   {
     "idx": 473,
-    "name": "クレイ・リリィ (Lancer)",
+    "name": "Gray Lily (Lancer)",
     "rarity": 4,
     "assets": [
       {
@@ -11634,5 +11634,29 @@
       }
     ],
     "class_name": "Lancer"
+  },
+  {
+    "idx": 474,
+    "name": "Hassan-i Sabbah",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_6053000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_6053001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_6053002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_6053003.png"
+      }
+    ],
+    "class_name": "Assassin"
   }
 ]
