@@ -29533,5 +29533,126 @@
         "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93118900.png"
       }
     ]
+  },
+  {
+    "idx": 2686,
+    "name": "豊穣の海",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "9409410",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94094100.png"
+      }
+    ]
+  },
+  {
+    "idx": 2687,
+    "name": "サマー・アーマー",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9409420",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94094200.png"
+      }
+    ]
+  },
+  {
+    "idx": 2688,
+    "name": "幽世の使者",
+    "rarity": 3,
+    "assets": [
+      {
+        "key": "9409430",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94094300.png"
+      }
+    ]
+  },
+  {
+    "idx": 2689,
+    "name": "マフイ・ロート",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "9409440",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94094400.png"
+      }
+    ]
+  },
+  {
+    "idx": 2690,
+    "name": "シーフ・イス・サ・コート",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9409450",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94094500.png"
+      }
+    ]
+  },
+  {
+    "idx": 2691,
+    "name": "わくわくさふーん~沖縄支店~",
+    "rarity": 3,
+    "assets": [
+      {
+        "key": "9409460",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94094600.png"
+      }
+    ]
+  },
+  {
+    "idx": 2692,
+    "name": "ル・クテ",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "9409470",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94094700.png"
+      }
+    ]
+  },
+  {
+    "idx": 2693,
+    "name": "渓谷の神秘",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "9409480",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_94094800.png"
+      }
+    ]
+  },
+  {
+    "idx": 2694,
+    "name": "くらくら堪能セット",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9311960",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93119600.png"
+      }
+    ]
+  },
+  {
+    "idx": 2695,
+    "name": "レティ・ロンクアームの探偵事務所",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9311930",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93119300.png"
+      }
+    ]
+  },
+  {
+    "idx": 2696,
+    "name": "トラコンロット サマーウァイハーEX",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9311910",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93119100.png"
+      }
+    ]
   }
 ]

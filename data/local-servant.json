@@ -51,6 +51,10 @@
       {
         "key": "costume_800200",
         "url": "https://static.atlasacademy.io/JP/Faces/f_8002000.png"
+      },
+      {
+        "key": "costume_800210",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_8002100.png"
       }
     ],
     "class_name": "Shielder"
@@ -3223,6 +3227,10 @@
       {
         "key": "costume_101230",
         "url": "https://static.atlasacademy.io/JP/Faces/f_1012300.png"
+      },
+      {
+        "key": "costume_101240",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_1012400.png"
       }
     ],
     "class_name": "Saber"
@@ -10131,6 +10139,10 @@
       {
         "key": "ascension_4",
         "url": "https://static.atlasacademy.io/JP/Faces/f_6050003.png"
+      },
+      {
+        "key": "costume_605030",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_6050300.png"
       }
     ],
     "class_name": "Assassin"
@@ -10771,6 +10783,10 @@
       {
         "key": "ascension_4",
         "url": "https://static.atlasacademy.io/JP/Faces/f_28010003.png"
+      },
+      {
+        "key": "costume_2801030",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_28010300.png"
       }
     ],
     "class_name": "Pretender"
@@ -11658,5 +11674,77 @@
       }
     ],
     "class_name": "Assassin"
+  },
+  {
+    "idx": 475,
+    "name": "Beni-Enma (Berserker)",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_7053000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_7053001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_7053002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_7053003.png"
+      }
+    ],
+    "class_name": "Berserker"
+  },
+  {
+    "idx": 476,
+    "name": "Kingprotea (Moon Cancer)",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_23012000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_23012001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_23012002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_23012003.png"
+      }
+    ],
+    "class_name": "Moon Cancer"
+  },
+  {
+    "idx": 477,
+    "name": "Biscione (Caster)",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_5060000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_5060001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_5060002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_5060003.png"
+      }
+    ],
+    "class_name": "Caster"
   }
 ]
