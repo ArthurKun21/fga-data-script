@@ -11746,5 +11746,77 @@
       }
     ],
     "class_name": "Caster"
+  },
+  {
+    "idx": 478,
+    "name": "Lilith (Rider)",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_4059000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_4059001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_4059002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_4059003.png"
+      }
+    ],
+    "class_name": "Rider"
+  },
+  {
+    "idx": 479,
+    "name": "Kingprotea Alter",
+    "rarity": 5,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_11023000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_11023001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_11023002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_11023003.png"
+      }
+    ],
+    "class_name": "Avenger"
+  },
+  {
+    "idx": 480,
+    "name": "Ono-no-Komachi (Archer)",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_2056000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_2056001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_2056002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_2056003.png"
+      }
+    ],
+    "class_name": "Archer"
   }
 ]

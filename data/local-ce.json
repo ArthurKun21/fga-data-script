@@ -29654,5 +29654,38 @@
         "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93119100.png"
       }
     ]
+  },
+  {
+    "idx": 2697,
+    "name": "リリン&リリスsクッスセット",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9311900",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93119000.png"
+      }
+    ]
+  },
+  {
+    "idx": 2698,
+    "name": "ミス・トールフットの美術館",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9311940",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93119400.png"
+      }
+    ]
+  },
+  {
+    "idx": 2699,
+    "name": "地獄コンハクト",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "9311950",
+        "url": "https://static.atlasacademy.io/JP/EquipFaces/f_93119500.png"
+      }
+    ]
   }
 ]
