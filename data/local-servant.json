@@ -11818,5 +11818,33 @@
       }
     ],
     "class_name": "Archer"
+  },
+  {
+    "idx": 481,
+    "name": "Habetrot (Pretender)",
+    "rarity": 4,
+    "assets": [
+      {
+        "key": "ascension_1",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_28013000.png"
+      },
+      {
+        "key": "ascension_2",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_28013001.png"
+      },
+      {
+        "key": "ascension_3",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_28013002.png"
+      },
+      {
+        "key": "ascension_4",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_28013003.png"
+      },
+      {
+        "key": "costume_2801330",
+        "url": "https://static.atlasacademy.io/JP/Faces/f_28013300.png"
+      }
+    ],
+    "class_name": "Pretender"
   }
 ]
